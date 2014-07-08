@@ -1,0 +1,3 @@
+[submodule "workbench/smallneat/trust"]
+	path = workbench/smallneat/trust
+	url = git@github.com:smallneat/trust.git
